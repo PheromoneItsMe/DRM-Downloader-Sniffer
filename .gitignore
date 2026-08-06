@@ -1,0 +1,14 @@
+# Ignore downloaded video/audio files
+*.mp4
+*.m4a
+*.mkv
+
+# Ignore temporary directory files and logs
+*.log
+*.tmp
+__pycache__/
+.idea/
+.vscode/
+
+# Ignore Widevine device keys
+file.wvd

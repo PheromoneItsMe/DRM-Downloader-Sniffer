@@ -1,0 +1,7 @@
+requests
+frida
+frida-tools
+protobuf
+pycryptodome
+pywidevine
+httpx
